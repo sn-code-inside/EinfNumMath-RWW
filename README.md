@@ -14,6 +14,6 @@ In this repository you will find Python-codes for the examples in the [Textbook 
 
 To start an overview of all notebooks, please see directory 'EN' and start an overview of all notebooks with
 ```
-Table_of_Content.ipynb
+jupyter-notebook Table_of_Content.ipynb
 ```
 within a console from this directory.
